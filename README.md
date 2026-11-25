@@ -2,7 +2,7 @@
 
 A drop-in replacement for `malloc`, `free`, `calloc` and `realloc`, written in C. Built February to June 2026.
 
-**Status:** 🚧 Work in progress. The source isn't published here yet.
+Work in progress. The source isn't published here yet.
 
 ## Why
 
